@@ -2,6 +2,7 @@
 using namespace std;
 
 
+
 void findLeader(int array[], int length) {
     int cur_max = 0;
     cout << "Leaders are: \n";
