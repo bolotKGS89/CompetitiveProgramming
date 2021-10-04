@@ -3,7 +3,6 @@
 using namespace std;
 
 
-
 int getMissingNumber(int array[], int length)
 {
     int sum_all_num = (length * (length + 1)) / 2;
